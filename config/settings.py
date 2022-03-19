@@ -178,17 +178,3 @@ DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 LOGIN_REDIRECT_URL = '/'
 
 
-# SOCIALACCOUNT_PROVIDERS = {
-#     'google': {
-#         # For each OAuth based provider, either add a ``SocialApp``
-#         # (``socialaccount`` app) containing the required client
-#         # credentials, or list them here:
-#         'APP': {
-#             'client_id': '558050019054-k8r9rjkgbcg8jp3v9l4pqmao8h01sdfb.apps.googleusercontent.com',
-#             'secret': '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',
-#             'key': ''
-#         }
-#     }
-# }
-
-
