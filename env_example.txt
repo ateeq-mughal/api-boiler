@@ -1,0 +1,5 @@
+EMAIL_HOST=smtp.gmail.com
+EMAIL_HOST_USER=xxxxxxx@gmail.com
+EMAIL_HOST_PASSWORD=xxxxxxx
+EMAIL_PORT=587
+SECRET_KEY=django-insecure-n_^i-0&o^&@9o!)o+qdf6_l0b8r#01cg^y4$y*vk-qc(yzjvyr
